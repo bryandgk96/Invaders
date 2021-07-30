@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633156207997",
+    "project_id": "dev-scoreboard-a35f5",
+    "storage_bucket": "dev-scoreboard-a35f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633156207997:android:c707d0ca485da8e1837814",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Invaders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633156207997-l7ob15enprcik01ioe75s2vuq0g74jq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.Invaders",
+            "certificate_hash": "749ae9977b326843c0389a6beac2cf5c7710f023"
+          }
+        },
+        {
+          "client_id": "633156207997-abk55g51261ceu0ardcc8cnjqjj25s5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkzzdO4o-9jrYEcBj8kuZV-pMaDJ-coY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633156207997-abk55g51261ceu0ardcc8cnjqjj25s5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
